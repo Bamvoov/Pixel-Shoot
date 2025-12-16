@@ -20,8 +20,12 @@ To run this game, you need Python installed on your system. You also need the `p
 ### Install Dependencies
 Run the following command in your terminal/command prompt:
 
-```bash
-pip install pygame
+ Screenshots
 
-## Screenshots
+
 <img width="795" height="671" alt="Screenshot 2025-12-17 001249" src="https://github.com/user-attachments/assets/d9549c4a-3623-4759-a192-cca748c2d931" />
+
+
+```bash
+pip install pygame```
+
